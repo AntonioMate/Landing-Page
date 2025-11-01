@@ -19,6 +19,8 @@ body{
     font-size:24px;
     color:#F9FAF8;
     text-align:left;
+    width:25;
+    height:10;
 }
 .links {
     display:flex;
